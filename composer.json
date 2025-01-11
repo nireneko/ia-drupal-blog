@@ -21,6 +21,9 @@
         "drupal/core-composer-scaffold": "^11.1",
         "drupal/core-project-message": "^11.1",
         "drupal/core-recommended": "^11.1",
+        "drupal/gin": "^4.0",
+        "drupal/gin_login": "^2.1",
+        "drupal/gin_toolbar": "^2.0",
         "drupal/metatag": "^2.1",
         "drupal/pathauto": "^1.13",
         "drupal/simple_sitemap": "^4.2"
