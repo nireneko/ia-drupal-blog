@@ -490,17 +490,17 @@
         },
         {
             "name": "drupal/ai",
-            "version": "1.0.0-beta7",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ai.git",
-                "reference": "1.0.0-beta7"
+                "reference": "1.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ai-1.0.0-beta7.zip",
-                "reference": "1.0.0-beta7",
-                "shasum": "9b84268da10cd5de1efe64dd79ea7e4d6a6049e3"
+                "url": "https://ftp.drupal.org/files/projects/ai-1.0.0.zip",
+                "reference": "1.0.0",
+                "shasum": "590ea8738739260692a45201df985972b673e3ad"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -524,11 +524,11 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "1.0.0-beta7",
-                    "datestamp": "1735832311",
+                    "version": "1.0.0",
+                    "datestamp": "1736438835",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Beta releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
